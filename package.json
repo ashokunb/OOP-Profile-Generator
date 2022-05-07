@@ -1,0 +1,14 @@
+{
+  "name": "1.-git-projects",
+  "version": "1.0.0",
+  "description": "Node program that takes employee information and organizes it within an HTML webpage with summaries for each person",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ambrose shokunbi",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
